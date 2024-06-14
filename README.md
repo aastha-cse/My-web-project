@@ -47,7 +47,6 @@ This project is a Spotify clone web application where users can add songs using 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please submit an issue or a pull request.
 
-## Visit For Demo
 
 
 
